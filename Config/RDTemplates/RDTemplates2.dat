@@ -1,0 +1,15 @@
+/*******************************************************************************
+    This is a sample for RDTemplates
+    FilePath: [FILE_PATH]
+    FileName: [FILE_NAME]
+    FileExt:  [FILE_EXTENSION]
+    You can define you self date and time format
+	Date:	  [DATE_USER]yyyy/MM/dd[DATE_USER_END]
+    y:year
+    M:month
+	d:day
+    Time:	  [TIME_USER]hh:mm:ss[TIME_USER_END]
+    h:hour
+    m:minute
+    s:second
+*******************************************************************************/
